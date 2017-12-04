@@ -7,4 +7,4 @@ Created by JC Hurst
 
 # FreeCodeCamp Front End Project - Javascript Tic-Tac-Toe Game
 
-A Pen created at CodePen.io for Free Code Camp: http://codepen.io/jchurst/full/grRQAb/.
+A Pen created at CodePen.io for Free Code Camp: http://codepen.io/jchurst/full/grRQAb/
